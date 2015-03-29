@@ -1,1 +1,14 @@
-ANSWER ME
+  First of all, Windows 8 operating system is the next generation of windows 7, it looks like a mobile phone system. It is noticed that Microsoft has upgraded the Start screen with many kind of apps which looks like the one using on Nokia mobile cell phone. Likewise Windows 7 has a pop-up Start menu; it is similar to windows XP.  Windows 8 is required a computer at least 1 gigahertz (GHz) or faster CPU, 1 gigabyte (GB) 32 bit RAM and minimum 16 GB hard drive.  
+  However, Windows 8 was increased its performance, both two operating systems were tested on the same computer, and windows 8 showed that it boosted two times faster than windows 7, and the reason windows 8 run faster than 7 was due to the resources saved to the Aero Glass.
+As mention before, windows 8 was replaced the Pop-up Start menu to the full-screen and touching apps. It was more convenient that user can easy operate just only by one touch, and there is some information display on the Windows Start tiles; this is never seen in Windows 7. Moreover, Windows 8 allows dual monitors separated wallpapers for users just add a Start bars. 
+Windows 8 was considered as “the most secure version of windows yet” because it has “better security and less-intrusive updates”
+  It was well known that Windows 7 and Windows 8 are always attack by malware and viruses, but Windows 8 has made more difficult for viruses and malware to infect the system.
+Windows 8 was the first generation systems which available in a tablet computer. The system was the “First-class touch input, but still fine with keyboard and mouse”. And Windows 8 also support USB 3.0 that making device transfer data faster than before.
+  Apparently, Microsoft put a lot of efforts on Windows 8, and it is fact that Windows 8 was a better system than Windows 7, not only the upgrading interface but also more secure to the users.
+  
+  
+Reference link:
+http://www.pcmag.com/article2/0,2817,2411451,00.asp
+http://www.itpro.co.uk/desktop-software/21919/windows-81-vs-windows-7-which-is-best-for-you/page/0/1
+
+
